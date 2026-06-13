@@ -4,5 +4,6 @@ Central Hub for all my side-project, i.e projects that are not machine learning,
 ## Interesting Projects
 
 ## To Do List
+- Dijkstra's Algorithm as simple web-game
 
 ## Projects
