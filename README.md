@@ -2,6 +2,7 @@
 Central Hub for all my side-project, i.e projects that are not machine learning, deep learning or data science related.
 
 ## To Do List
+- Web-scraping tool
 - Text Editor
 - 2D Game
 - Pathfinding Visualiser
