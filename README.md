@@ -9,4 +9,5 @@ Central Hub for all my side-project, i.e projects that are not machine learning,
 - File Organiser
 
 ## Projects
-https://github.com/jacksonjgee/dijkstras_game
+[Dijkstra's Game](https://github.com/jacksonjgee/dijkstras_game)<br>
+[Shooters 2D](https://github.com/jacksonjgee/Shooters2D/tree/main/src/network)
