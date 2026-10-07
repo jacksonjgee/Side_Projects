@@ -10,3 +10,5 @@ Central Hub for all my side-project, i.e projects that are not machine learning,
 
 ## Projects
 [Dijkstra's Pathfinding Visualiser](https://github.com/jacksonjgee/dijkstras_game)<br>
+
+[studev Command-line Tool](https://github.com/jacksonjgee/studev)<br>
